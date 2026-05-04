@@ -184,8 +184,11 @@ export default function Page() {
           Background
         </h2>
         <p className="text-zinc-600">
-          Previously full-stack engineer at Arbusta. Boston-based, open to
-          senior and staff applied-AI roles — onsite, hybrid, or remote ET.
+          Currently Software Engineer at{' '}
+          <span className="text-zinc-900">Suncor Stainless</span> in Plymouth,
+          Massachusetts. Eight years across data analysis, full-stack
+          engineering, and applied AI. Open to senior and staff applied-AI
+          roles — Boston, hybrid, or remote ET.
         </p>
       </section>
 
